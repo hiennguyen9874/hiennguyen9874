@@ -1,4 +1,4 @@
-# Paul Nguyen - A passionate backend developer from Viet Nam
+# Xuan Hien - A passionate backend developer from Viet Nam
 
 - Open and friendly.
 - Love to learn new things, especially things related to Backend stacks.
