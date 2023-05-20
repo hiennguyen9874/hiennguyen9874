@@ -254,7 +254,7 @@
 - Deploy face recognition with triton: [github.com/hiennguyen9874/triton-face-recognition](https://github.com/hiennguyen9874/triton-face-recognition)
 - Deploy face recognition with deepstream: [github.com/hiennguyen9874/deepstream-face-recognition](https://github.com/hiennguyen9874/deepstream-face-recognition)
 - TensoRT - Custom plugin: [github.com/hiennguyen9874/TensorRT](https://github.com/hiennguyen9874/TensorRT)
-- Deploy yolov7/yolov5 instance segmentation on deepstream: [hiennguyen9874/deepstream-realtime-instance-segmentation](https://github.com/hiennguyen9874/deepstream-realtime-instance-segmentation)
+- Deploy yolov7/yolov5 instance segmentation on deepstream: [github.com/hiennguyen9874/deepstream-realtime-instance-segmentation](https://github.com/hiennguyen9874/deepstream-realtime-instance-segmentation)
 
 ### DevOps
 
