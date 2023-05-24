@@ -262,6 +262,23 @@
 - Code-server - Docker code-server cuda version: [github.com/hiennguyen9874/code-server-docker](https://github.com/hiennguyen9874/code-server-docker)
 - Workspace - docker + jupyterlab + code-server: [github.com/hiennguyen9874/workspace](https://github.com/hiennguyen9874/workspace)
 
+## Pinned
+
+[![Readme Card](https://github-readme-stats-5bxv5ntqp-hiennguyen9874.vercel.app/api/pin/?username=hiennguyen9874&repo=stockk-go&show_owner=true)](https://github.com/hiennguyen9874/stockk-go)
+[![Readme Card](https://github-readme-stats-5bxv5ntqp-hiennguyen9874.vercel.app/api/pin/?username=hiennguyen9874&repo=async-fastapi-boilerplate-v2&show_owner=true)](https://github.com/hiennguyen9874/async-fastapi-boilerplate-v2)
+
+[![Readme Card](https://github-readme-stats-5bxv5ntqp-hiennguyen9874.vercel.app/api/pin/?username=hiennguyen9874&repo=go-boilerplate&show_owner=true)](https://github.com/hiennguyen9874/go-boilerplate) [![Readme Card](https://github-readme-stats-5bxv5ntqp-hiennguyen9874.vercel.app/api/pin/?username=hiennguyen9874&repo=go-boilerplate-v2&show_owner=true)](https://github.com/hiennguyen9874/go-boilerplate-v2)
+
+[![Readme Card](https://github-readme-stats-5bxv5ntqp-hiennguyen9874.vercel.app/api/pin/?username=hiennguyen9874&repo=person-reid&show_owner=true)](https://github.com/hiennguyen9874/person-reid) [![Readme Card](https://github-readme-stats-5bxv5ntqp-hiennguyen9874.vercel.app/api/pin/?username=hiennguyen9874&repo=yolov7-face-detection&show_owner=true)](https://github.com/hiennguyen9874/yolov7-face-detection)
+
+[![Readme Card](https://github-readme-stats-5bxv5ntqp-hiennguyen9874.vercel.app/api/pin/?username=hiennguyen9874&repo=person-attribute-recognition&show_owner=true)](https://github.com/hiennguyen9874/person-attribute-recognition) [![Readme Card](https://github-readme-stats-5bxv5ntqp-hiennguyen9874.vercel.app/api/pin/?username=hiennguyen9874&repo=triton-face-recognition&show_owner=true)](https://github.com/hiennguyen9874/triton-face-recognition)
+
+[![Readme Card](https://github-readme-stats-5bxv5ntqp-hiennguyen9874.vercel.app/api/pin/?username=hiennguyen9874&repo=deepstream-face-recognition&show_owner=true)](https://github.com/hiennguyen9874/deepstream-face-recognition) [![Readme Card](https://github-readme-stats-5bxv5ntqp-hiennguyen9874.vercel.app/api/pin/?username=hiennguyen9874&repo=TensorRT&show_owner=true)](https://github.com/hiennguyen9874/TensorRT)
+
+[![Readme Card](https://github-readme-stats-5bxv5ntqp-hiennguyen9874.vercel.app/api/pin/?username=hiennguyen9874&repo=deepstream-realtime-instance-segmentation&show_owner=true)](https://github.com/hiennguyen9874/deepstream-realtime-instance-segmentation) [![Readme Card](https://github-readme-stats-5bxv5ntqp-hiennguyen9874.vercel.app/api/pin/?username=hiennguyen9874&repo=docker-stacks&show_owner=true)](https://github.com/hiennguyen9874/docker-stacks)
+
+[![Readme Card](https://github-readme-stats-5bxv5ntqp-hiennguyen9874.vercel.app/api/pin/?username=hiennguyen9874&repo=code-server-docker&show_owner=true)](https://github.com/hiennguyen9874/code-server-docker) [![Readme Card](https://github-readme-stats-5bxv5ntqp-hiennguyen9874.vercel.app/api/pin/?username=hiennguyen9874&repo=workspace&show_owner=true)](https://github.com/hiennguyen9874/workspace)
+
 ## Connect with me
 
 <p align="left">
