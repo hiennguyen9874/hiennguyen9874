@@ -248,7 +248,6 @@
 
 ### Computer vision - Deep learning
 
-- Person Re-identification: [github.com/hiennguyen9874/person-reid](https://github.com/hiennguyen9874/person-reid)
 - Yolov7 face recognition: [github.com/hiennguyen9874/yolov7-face-detection](https://github.com/hiennguyen9874/yolov7-face-detection)
 - Person attribute recognition: [github.com/hiennguyen9874/person-attribute-recognition](https://github.com/hiennguyen9874/person-attribute-recognition)
 - Deploy face recognition with triton: [github.com/hiennguyen9874/triton-face-recognition](https://github.com/hiennguyen9874/triton-face-recognition)
@@ -267,8 +266,6 @@
 [![Readme Card](https://github-readme-stats-git-master-hiennguyen9874.vercel.app/api/pin/?username=hiennguyen9874&repo=stockk-go&theme=transparent)](https://github.com/hiennguyen9874/stockk-go) &nbsp;&nbsp; [![Readme Card](https://github-readme-stats-git-master-hiennguyen9874.vercel.app/api/pin/?username=hiennguyen9874&repo=async-fastapi-boilerplate-v2&theme=transparent)](https://github.com/hiennguyen9874/async-fastapi-boilerplate-v2)
 
 [![Readme Card](https://github-readme-stats-git-master-hiennguyen9874.vercel.app/api/pin/?username=hiennguyen9874&repo=go-boilerplate&theme=transparent)](https://github.com/hiennguyen9874/go-boilerplate) &nbsp;&nbsp; [![Readme Card](https://github-readme-stats-git-master-hiennguyen9874.vercel.app/api/pin/?username=hiennguyen9874&repo=go-boilerplate-v2&theme=transparent)](https://github.com/hiennguyen9874/go-boilerplate-v2)
-
-[![Readme Card](https://github-readme-stats-git-master-hiennguyen9874.vercel.app/api/pin/?username=hiennguyen9874&repo=person-reid&theme=transparent)](https://github.com/hiennguyen9874/person-reid) &nbsp;&nbsp; [![Readme Card](https://github-readme-stats-git-master-hiennguyen9874.vercel.app/api/pin/?username=hiennguyen9874&repo=yolov7-face-detection&theme=transparent)](https://github.com/hiennguyen9874/yolov7-face-detection)
 
 [![Readme Card](https://github-readme-stats-git-master-hiennguyen9874.vercel.app/api/pin/?username=hiennguyen9874&repo=person-attribute-recognition&theme=transparent)](https://github.com/hiennguyen9874/person-attribute-recognition) &nbsp;&nbsp; [![Readme Card](https://github-readme-stats-git-master-hiennguyen9874.vercel.app/api/pin/?username=hiennguyen9874&repo=triton-face-recognition&theme=transparent)](https://github.com/hiennguyen9874/triton-face-recognition)
 
