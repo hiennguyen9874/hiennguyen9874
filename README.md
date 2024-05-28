@@ -1,5 +1,7 @@
 # Xuan Hien - A passionate backend developer from Viet Nam
 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hiennguyen9874.hiennguyen9874">
+
 - Open and friendly.
 - Love to learn new things, especially things related to Backend stacks.
 
